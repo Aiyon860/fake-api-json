@@ -1,12 +1,14 @@
-[
-  { "id": 1, "name": "Sapu Lantai Nilon", "price": 25000, "stock": 10 },
-  { "id": 2, "name": "Pel Lantai Microfiber", "price": 45000, "stock": 8 },
-  { "id": 3, "name": "Ember Plastik 10L", "price": 15000, "stock": 15 },
-  { "id": 4, "name": "Sikat Kamar Mandi", "price": 12000, "stock": 20 },
-  { "id": 5, "name": "Cairan Pembersih Lantai", "price": 18000, "stock": 12 },
-  { "id": 6, "name": "Lap Kanebo Super", "price": 30000, "stock": 7 },
-  { "id": 7, "name": "Penyedot Debu Portable", "price": 150000, "stock": 3 },
-  { "id": 8, "name": "Rak Sepatu 3 Susun", "price": 85000, "stock": 5 },
-  { "id": 9, "name": "Tempat Sampah Injak", "price": 55000, "stock": 6 },
-  { "id": 10, "name": "Gantungan Baju (1 set)", "price": 22000, "stock": 25 }
-]
+{
+  "products": [
+    { "id": 1, "name": "Sapu Lantai Nilon", "price": 25000, "stock": 10 },
+    { "id": 2, "name": "Pel Lantai Microfiber", "price": 45000, "stock": 8 },
+    { "id": 3, "name": "Ember Plastik 10L", "price": 15000, "stock": 15 },
+    { "id": 4, "name": "Sikat Kamar Mandi", "price": 12000, "stock": 20 },
+    { "id": 5, "name": "Cairan Pembersih Lantai", "price": 18000, "stock": 12 },
+    { "id": 6, "name": "Lap Kanebo Super", "price": 30000, "stock": 7 },
+    { "id": 7, "name": "Penyedot Debu Portable", "price": 150000, "stock": 3 },
+    { "id": 8, "name": "Rak Sepatu 3 Susun", "price": 85000, "stock": 5 },
+    { "id": 9, "name": "Tempat Sampah Injak", "price": 55000, "stock": 6 },
+    { "id": 10, "name": "Gantungan Baju (1 set)", "price": 22000, "stock": 25 }
+  ]
+}
